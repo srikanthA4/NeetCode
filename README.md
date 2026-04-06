@@ -69,7 +69,7 @@ For each problem, I implemented:
 
 ## 🙌 Author
 
-* Your Name
+* Srikabth K
 
 ---
 
