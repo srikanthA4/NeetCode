@@ -1,6 +1,6 @@
 # 🚀 NeetCode Java Solutions
 
-This repository contains my solutions to popular coding interview problems (inspired by NeetCode) using Java.
+This repository contains my solutions to popular coding interview problems using Java.
 
 ---
 
@@ -10,11 +10,13 @@ This repository contains my solutions to popular coding interview problems (insp
 
   * Two Sum
   * Contains Duplicate
+  * Product of Array Except Self
 
 * **strings/**
 
   * Valid Anagram
   * Group Anagrams
+  * Encode & Decode Strings
 
 * **heap/**
 
@@ -28,48 +30,49 @@ For each problem, I implemented:
 
 * ✅ Brute Force
 * ✅ Optimized (HashMap / HashSet)
-* ✅ Advanced (Heap / Bucket Sort / Two Pointers)
+* ✅ Advanced (Heap / Prefix-Suffix / Encoding)
 
 ---
 
-## 🧠 Goals
+## 🧠 Problems List
 
-* Improve problem-solving skills
-* Understand multiple approaches
-* Prepare for coding interviews
+| Problem                      | Category | Key Concept       |
+| ---------------------------- | -------- | ----------------- |
+| Two Sum                      | Arrays   | HashMap           |
+| Contains Duplicate           | Arrays   | HashSet           |
+| Product of Array Except Self | Arrays   | Prefix & Suffix   |
+| Valid Anagram                | Strings  | Frequency Count   |
+| Group Anagrams               | Strings  | HashMap + Sorting |
+| Encode & Decode Strings      | Strings  | String Encoding   |
+| Top K Frequent Elements      | Heap     | Priority Queue    |
 
 ---
 
 ## 🛠️ Tech Stack
 
 * Language: Java
-* Concepts: Arrays, Hashing, Sorting, Heap
+* Concepts: Arrays, Hashing, Strings, Heap, Prefix Sum
 
 ---
 
-## 📌 Problems List
+## 📈 Progress
 
-| Problem                 | Category |
-| ----------------------- | -------- |
-| Two Sum                 | Arrays   |
-| Contains Duplicate      | Arrays   |
-| Valid Anagram           | Strings  |
-| Group Anagrams          | Strings  |
-| Top K Frequent Elements | Heap     |
+* ✅ Solved 7 Problems
+* 🔄 Continuously updating...
 
 ---
 
-## ⭐ Future Improvements
+## 🎯 Goals
 
-* Add more problems
-* Add time & space complexity comments
-* Add explanations for each solution
+* Strengthen Data Structures & Algorithms
+* Prepare for coding interviews
+* Write clean and optimized code
 
 ---
 
 ## 🙌 Author
 
-* Srikabth K
+* Your Srikanth K
 
 ---
 
