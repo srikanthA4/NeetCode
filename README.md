@@ -38,7 +38,7 @@ For each problem, I implemented:
 
    | Concept           | Problem                      | Category | Key Concept       |
 | ----------------- | ---------------------------- | -------- | ----------------- |
-| ram          | Two Sum                      | Arrays   | HashMap           |
+| ram            | Two Sum                      | Arrays   | HashMap           |
 | Hashing           | Contains Duplicate           | Arrays   | HashSet           |
 | Prefix Sum        | Product of Array Except Self | Arrays   | Prefix & Suffix   |
 | Counting          | Valid Anagram                | Strings  | Frequency Count   |
