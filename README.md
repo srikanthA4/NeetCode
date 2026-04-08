@@ -36,15 +36,16 @@ For each problem, I implemented:
 
 ## 🧠 Data Structures and Algorithms
 
-      | Concept           | Problem                      | Category | Key Concept       |
+   | Concept           | Problem                      | Category | Key Concept       |
 | ----------------- | ---------------------------- | -------- | ----------------- |
-|                   | Two Sum                      | Arrays   | HashMap           |
-|                   | Contains Duplicate           | Arrays   | HashSet           |
-|                   | Product of Array Except Self | Arrays   | Prefix & Suffix   |
-|                   | Valid Anagram                | Strings  | Frequency Count   |
-|                   | Group Anagrams               | Strings  | HashMap + Sorting |
-|                   | Encode & Decode Strings      | Strings  | String Encoding   |
-|                   | Top K Frequent Elements      | Heap     | Priority Queue    |
+| Hashing           | Two Sum                      | Arrays   | HashMap           |
+| Hashing           | Contains Duplicate           | Arrays   | HashSet           |
+| Prefix Sum        | Product of Array Except Self | Arrays   | Prefix & Suffix   |
+| Counting          | Valid Anagram                | Strings  | Frequency Count   |
+| Hashing + Sorting | Group Anagrams               | Strings  | HashMap + Sorting |
+| Encoding          | Encode & Decode Strings      | Strings  | String Encoding   |
+| Heap              | Top K Frequent Elements      | Heap     | Priority Queue    |
+
 
 
 ---
