@@ -36,7 +36,7 @@ For each problem, I implemented:
 
 ## 🧠 Problems List
 
-| Problem                      | Category | Key Concept       |
+Concept|| Problem                      | Category | Key Concept       |
 | ---------------------------- | -------- | ----------------- |
 | Two Sum                      | Arrays   | HashMap           |
 | Contains Duplicate           | Arrays   | HashSet           |
