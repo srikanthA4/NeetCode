@@ -36,7 +36,7 @@ For each problem, I implemented:
 
 ## 🧠 Data Structures and Algorithms
 
-| Problem                      | Category | Key Concept       |
+       | Problem                      | Category | Key Concept       |
        | ---------------------------- | -------- | ----------------- |
        | Two Sum                      | Arrays   | HashMap           |
        | Contains Duplicate           | Arrays   | HashSet           |
