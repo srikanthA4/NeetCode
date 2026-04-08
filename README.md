@@ -34,17 +34,17 @@ For each problem, I implemented:
 
 ---
 
-## 🧠 Problems List
+## 🧠 Data Structures and Algorithms
 
-Concept| Problem                      | Category | Key Concept       |
-| ---------------------------- | -------- | ----------------- |
-| Two Sum                      | Arrays   | HashMap           |
-| Contains Duplicate           | Arrays   | HashSet           |
-| Product of Array Except Self | Arrays   | Prefix & Suffix   |
-| Valid Anagram                | Strings  | Frequency Count   |
-| Group Anagrams               | Strings  | HashMap + Sorting |
-| Encode & Decode Strings      | Strings  | String Encoding   |
-| Top K Frequent Elements      | Heap     | Priority Queue    |
+| Problem                      | Category | Key Concept       |
+       | ---------------------------- | -------- | ----------------- |
+       | Two Sum                      | Arrays   | HashMap           |
+       | Contains Duplicate           | Arrays   | HashSet           |
+       | Product of Array Except Self | Arrays   | Prefix & Suffix   |
+       | Valid Anagram                | Strings  | Frequency Count   |
+       | Group Anagrams               | Strings  | HashMap + Sorting |
+       | Encode & Decode Strings      | Strings  | String Encoding   |
+       | Top K Frequent Elements      | Heap     | Priority Queue    |
 
 ---
 
