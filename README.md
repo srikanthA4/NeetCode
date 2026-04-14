@@ -130,7 +130,7 @@ For each problem, multiple approaches are covered:
 
 ## 📈 Progress
 
-* ✅ Solved 7+ Problems
+
 * 🔄 Continuously improving and updating
 
 ---
