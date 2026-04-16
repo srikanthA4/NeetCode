@@ -25,7 +25,7 @@ This repo is designed to **track my daily progress** while mastering Data Struct
 
 ## 🔹 Fundamentals
 
-*  Mathematics
+*  Mathematics -Added and completed 
 *  Time Complexity
 *  Space Complexity
 
