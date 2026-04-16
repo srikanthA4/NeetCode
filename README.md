@@ -118,6 +118,7 @@ This repo is designed to **track my daily progress** while mastering Data Struct
 
 * Language: Java
 * Concepts: Arrays, Hashing, Strings, Heap, Prefix Sum
+* Tools: IntelliJ IDEA, Git, GitHub
 
 ---
 
